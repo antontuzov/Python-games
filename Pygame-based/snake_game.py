@@ -14,8 +14,8 @@ GREEN = (0, 255, 0)
 BLUE = (50, 153, 213)
 
 # Set display dimensions
-WIDTH = 600
-HEIGHT = 400
+WIDTH = 1100
+HEIGHT = 800
 
 # Set up display
 dis = pygame.display.set_mode((WIDTH, HEIGHT))
@@ -25,8 +25,8 @@ pygame.display.set_caption('Snake Game')
 clock = pygame.time.Clock()
 
 # Snake properties
-SNAKE_BLOCK = 10
-SNAKE_SPEED = 15
+SNAKE_BLOCK = 30
+SNAKE_SPEED = 12
 
 # Fonts
 font_style = pygame.font.SysFont("bahnschrift", 25)

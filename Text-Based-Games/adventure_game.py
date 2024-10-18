@@ -38,8 +38,30 @@ def adventure_game():
             
     print('thank you for playing')  
     
-    
-    
+
+
 if __name__ == '__main__':
     adventure_game()
     
+    
+    
+    
+    
+
+
+    
+    
+    
+    
+
+    
+
+        
+        
+        
+    
+        
+    
+
+
+
